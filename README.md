@@ -74,7 +74,7 @@ The API returns a **JSON object** with the following fields:
    - Create a `.env` file in the project root.
    - Add your OpenAI API key:
      ```sh
-    TOKEN=your_openai_api_key
+      TOKEN=your_openai_api_key
      ```
 4. **Start the NestJS application**:
    ```sh
