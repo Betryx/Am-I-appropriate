@@ -101,5 +101,5 @@ The API returns appropriate HTTP status codes:
 - Improved AI-based analysis and personalized feedback.
 - Enhanced scoring methodology based on job market trends.
 
-For more details, refer to the official documentation or reach out to the development team.
+
 
