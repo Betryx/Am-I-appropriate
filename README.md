@@ -63,8 +63,8 @@ The API returns a **JSON object** with the following fields:
 
 1. **Clone the repository** and navigate into the project directory:
    ```sh
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Betryx/Am-I-appropriate
+   cd AmIappropriate
    ```
 2. **Install dependencies**:
    ```sh
@@ -74,7 +74,7 @@ The API returns a **JSON object** with the following fields:
    - Create a `.env` file in the project root.
    - Add your OpenAI API key:
      ```sh
-     OPENAI_API_KEY=your_openai_api_key
+    TOKEN=your_openai_api_key
      ```
 4. **Start the NestJS application**:
    ```sh
